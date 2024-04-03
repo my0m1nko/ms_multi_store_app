@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912069233376",
+    "project_id": "ms-multi-store",
+    "storage_bucket": "ms-multi-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912069233376:android:d2c22f7a1a1da962ec9e85",
+        "android_client_info": {
+          "package_name": "com.microraysolution.ms_multi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IugjMSUhuH503pS4QOgNQ1k3jZHT0hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
